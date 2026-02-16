@@ -1,0 +1,6 @@
+Class     : 12
+Chapter   : 10 - Wave Optics
+Page      : 3
+Figure    : 10.2
+Caption   : F1F2 represents the spherical wavefront (with O as centre) at t = 0. The envelope of the secondary wavelets emanating from F1F2 produces the forward moving wavefront G1G2. The backwave D1D2 does not exist.
+Size      : 1894 × 1894 px

@@ -1,0 +1,6 @@
+Class     : 12
+Chapter   : 10 - Wave Optics
+Page      : 13
+Figure    : 10.15
+Caption   : Intensity distribution and photograph of fringes due to diffraction at single slit. Reprint 2025-26
+Size      : 1894 × 1894 px
