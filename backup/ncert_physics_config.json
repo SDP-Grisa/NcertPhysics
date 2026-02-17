@@ -1,0 +1,8 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "dimension": 384,
+  "total_chunks": 402,
+  "created_at": "2026-02-17T14:28:02.773931",
+  "index_type": "IndexFlatIP",
+  "similarity_metric": "cosine"
+}
