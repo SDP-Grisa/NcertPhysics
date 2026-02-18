@@ -1,6 +1,0 @@
-Class     : 12
-Chapter   : 10 - Wave Optics
-Page      : 4
-Figure    : 10.4 A
-Caption   : plane wave AB is incident at an angle i on the surface PP¢ separating medium 1 and medium 2. The plane wave undergoes refraction and CE represents the refracted wavefront. The figure corresponds to v2 < v1 so that the refracted waves bends towards the normal. Reprint 2025-26
-Size      : 465 × 330 px

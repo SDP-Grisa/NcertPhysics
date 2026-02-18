@@ -1,6 +1,0 @@
-Class     : 12
-Chapter   : 10 - Wave Optics
-Page      : 11
-Figure    : 10.12
-Caption   : Young’s arrangement to produce interference pattern.
-Size      : 818 × 281 px

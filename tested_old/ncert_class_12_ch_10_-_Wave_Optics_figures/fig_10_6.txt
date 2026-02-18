@@ -1,6 +1,0 @@
-Class     : 12
-Chapter   : 10 - Wave Optics
-Page      : 7
-Figure    : 10.6
-Caption   : Reflection of a plane wave AB by the reflecting surface MN. AB and CE represent incident and reflected wavefronts.
-Size      : 425 × 194 px

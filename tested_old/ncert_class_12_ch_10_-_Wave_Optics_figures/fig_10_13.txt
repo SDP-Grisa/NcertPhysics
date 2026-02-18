@@ -1,6 +1,0 @@
-Class     : 12
-Chapter   : 10 - Wave Optics
-Page      : 12
-Figure    : 10.13
-Caption   : Computer generated fringe pattern produced by two point source S1 and S2 on the screen GG¢ (Fig. 10.12); d = 0.025 mm, D = 5 cm and l = 5 × 10–5 cm.) (Adopted from OPTICS by A. Ghatak, Tata McGraw Hill Publishing Co. Ltd., New Delhi, 2000.) Thomas Young (1773 – 1829) English physicist, physician and Egyptologist. Young worked on a wide variety of scientific problems, ranging from the structure of the eye and the mechanism of vision to the decipherment of the Rosetta stone. He revived the wave theory of light and recognised that interference phenomena provide proof of the wave properties of light. THOMAS YOUNG (1773 – 1829) We will have constructive interference resulting in a bright region when xd D = nl. That is, x = xn = n D d λ ; n = 0, ± 1, ± 2, ... (10.13) On the other hand, we will have destructive interference resulting in a dark region when xd D = (n+ 1 2 ) l that is x = xn = (n+ 1 2 ) ; 0, 1, 2 D n d     (10.14) Thus dark and bright bands appear on the screen, as shown in Fig. 10.13. Such bands are called fringes. Equations (10.13) and (10.14) show that dark and bright fringes are equally spaced.
-Size      : 790 × 686 px

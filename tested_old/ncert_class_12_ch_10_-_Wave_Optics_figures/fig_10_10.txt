@@ -1,6 +1,0 @@
-Class     : 12
-Chapter   : 10 - Wave Optics
-Page      : 9
-Figure    : 10.10
-Caption   : Locus of points for which S1P – S2P is equal to zero, ±l, ± 2l, ± 3l. Reprint 2025-26
-Size      : 1894 × 1894 px

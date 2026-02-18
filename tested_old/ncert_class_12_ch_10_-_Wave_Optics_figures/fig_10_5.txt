@@ -1,6 +1,0 @@
-Class     : 12
-Chapter   : 10 - Wave Optics
-Page      : 6
-Figure    : 10.5
-Caption   : Refraction of a plane wave incident on a rarer medium for which v2 > v1. The plane wave bends away from the normal.
-Size      : 511 × 315 px
