@@ -1,25 +1,27 @@
-# NCERT Physics RAG — Requirements
-# Python >= 3.9 recommended
-# Install: pip install -r requirements.txt
+# Core numerical & data handling
+numpy
+pandas
 
-# ── Streamlit UI ───────────────────────────────────────────────────────────────
-streamlit>=1.35.0
+# Vector search
+faiss-cpu
 
-# ── LLM API (Groq / Llama) ────────────────────────────────────────────────────
-groq>=0.9.0
+# Embeddings
+sentence-transformers
+torch
 
-# ── Vector search ─────────────────────────────────────────────────────────────
-# Use faiss-gpu instead if you have a CUDA-capable GPU
-faiss-cpu>=1.8.0
+# Retrieval & ranking
+rank-bm25
+rapidfuzz
 
-# ── Sentence embeddings (GTE / all-MiniLM / etc.) ────────────────────────────
-sentence-transformers>=3.0.0
+# LLM / API access
+openai
+tiktoken
+python-dotenv
+requests
 
-# ── Numerical / ML dependencies ───────────────────────────────────────────────
-numpy>=1.26.0,<3.0.0          # faiss-cpu requires <3 on some platforms
+# Web app UI
+streamlit
 
-# ── Environment variables (.env file support) ─────────────────────────────────
-python-dotenv>=1.0.0
-
-# ── Standard library (no install needed — listed for reference only) ──────────
-# json, os, re, pickle, pathlib, typing, enum, dataclasses  →  built-in
+# Serialization & utilities
+scikit-learn
+tqdm

@@ -1,8 +1,21 @@
 {
   "model_name": "thenlper/gte-small",
-  "dimension": 384,
-  "total_chunks": 757,
-  "created_at": "2026-02-18T10:23:19.906540",
-  "index_type": "IndexFlatIP",
-  "similarity_metric": "cosine"
+  "embedding_dim": 384,
+  "num_chunks": 757,
+  "passage_prefix": "",
+  "built_at": "2026-02-19 00:25:18",
+  "chunk_types": {
+    "chapter_overview": 28,
+    "chapter_title": 42,
+    "section": 227,
+    "table": 38,
+    "subsection": 136,
+    "example": 193,
+    "summary": 28,
+    "exercises": 38,
+    "points_to_ponder": 27
+  },
+  "faiss_file": "ncert_physics_gte.faiss",
+  "chunks_file": "ncert_physics_chunks_indexed_gte.json",
+  "metadata_file": "ncert_physics_metadata_gte.pkl"
 }
