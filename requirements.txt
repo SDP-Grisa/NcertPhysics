@@ -1,12 +1,10 @@
 # Core numerical & data handling
-numpy
+numpy>=1.26.0,<3.0.0    
 pandas
 
-# Vector search
-faiss-cpu
 
 # Embeddings
-sentence-transformers
+sentence-transformers>=3.0.0
 torch
 
 # Retrieval & ranking
@@ -16,11 +14,16 @@ rapidfuzz
 # LLM / API access
 openai
 tiktoken
-python-dotenv
+python-dotenv>=1.0.0
 requests
 
-# Web app UI
-streamlit
+# ── Streamlit UI ───────────────────────────────────────────────────────────────
+streamlit>=1.35.0
+
+# ── LLM API (Groq / Llama) ────────────────────────────────────────────────────
+groq>=0.9.0
+
+faiss-cpu>=1.8.0
 
 # Serialization & utilities
 scikit-learn
